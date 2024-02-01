@@ -64,13 +64,13 @@
     "esbuild-plugin-replace": "^1.3.0"
   },
   "devDependencies": {
-    "@types/babel__core": "^7.20.0",
-    "@types/babel__generator": "^7.6.4",
-    "@types/babel__template": "^7.4.1",
-    "@types/babel__traverse": "^7.18.3",
+    "@types/babel__core": "7.20.0",
+    "@types/babel__generator": "7.6.4",
+    "@types/babel__template": "7.4.1",
+    "@types/babel__traverse": "7.18.3",
     "astro": "0.0.0-ssr-manifest-20230306183729",
-    "concurrently": "^7.6.0",
+    "concurrently": "7.6.0",
     "typescript": "4.9.4",
-    "vitest": "^0.26.2"
+    "vitest": "0.26.3"
   }
 }
