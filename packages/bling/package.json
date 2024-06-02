@@ -68,7 +68,7 @@
     "@types/babel__generator": "^7.6.4",
     "@types/babel__template": "^7.4.1",
     "@types/babel__traverse": "^7.18.3",
-    "astro": "0.0.0-ssr-manifest-20230306183729",
+    "astro": "0.26.1",
     "concurrently": "^7.6.0",
     "typescript": "4.9.4",
     "vitest": "^0.26.2"
